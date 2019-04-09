@@ -11,6 +11,7 @@
   <description>project-web-Description</description>
   <modules>
   	<module>projectAi-front</module>
+  	<module>projectAi-admin</module>
   </modules>
   
   <properties>
